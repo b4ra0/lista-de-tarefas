@@ -3,7 +3,7 @@ import 'package:lista_tarefas/screens/lista_tarefas.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: ListaTarefas(),
     ),
   );
