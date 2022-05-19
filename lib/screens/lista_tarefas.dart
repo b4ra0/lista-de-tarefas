@@ -36,7 +36,6 @@ class _ListaTarefasState extends State<ListaTarefas> {
           )
         ],
       ),
-      drawer: const Drawer(),
       body: FutureBuilder<List<Tarefa>>(
         builder: (context, snapshot) {
           return ListView.builder(

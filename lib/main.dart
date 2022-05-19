@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:lista_tarefas/screens/lista_tarefas.dart';
+import 'package:lista_tarefas/screens/login_screen.dart';
 
 void main() {
   runApp(
     const MaterialApp(
-      home: ListaTarefas(),
+      home: LoginScreen(),
     ),
   );
 }

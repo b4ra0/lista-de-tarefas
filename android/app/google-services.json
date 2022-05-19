@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973637373288",
+    "project_id": "lista-de-tarefas-87c8b",
+    "storage_bucket": "lista-de-tarefas-87c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973637373288:android:e5b1435ef91fdb84df5add",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973637373288-ng1li8hepen79h1kh96o9bt4i186eo34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ogfJ4RCQn2-XuBFn5gqaZ83C06J-EoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973637373288-ng1li8hepen79h1kh96o9bt4i186eo34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
